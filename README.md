@@ -6,7 +6,8 @@ Generator program modified from here: https://www.geeksforgeeks.org/program-sudo
 Solver algorithm modified from here: https://www.geeksforgeeks.org/sudoku-backtracking-7/
 
 Example output:
-```Generated Sudoku Puzzle:
+```
+Generated Sudoku Puzzle:
 6 9 0 ┃ 1 2 3 ┃ 0 5 7 
 5 2 0 ┃ 0 7 8 ┃ 0 9 0 
 1 3 7 ┃ 9 0 5 ┃ 0 6 8 
